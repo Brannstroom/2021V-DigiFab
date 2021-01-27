@@ -1,0 +1,52 @@
+body {
+    background-image: url("../img/bg.jpg");
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+}
+
+nav {
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+nav h1 {
+    margin: 0% 0% 0% 35%;
+}
+
+nav h2 {
+    margin: 0% 0% 0% 10%;
+}
+
+h1, h2 {
+    white-space: nowrap;
+}
+
+.rightfloat {
+    float: right;
+    margin-right: 8%;
+}
+
+footer {
+    bottom: 0;
+    position: absolute;
+}
+
+main {
+    width: 35%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
