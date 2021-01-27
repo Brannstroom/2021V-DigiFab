@@ -2,4 +2,4 @@
 
 Repo for Digital Fabrikasjon.
 
-[Oppgave 1 - Prosjektstyring og mappeinnlevering](https://www.google.com)
+[Oppgave 1 - Prosjektstyring og mappeinnlevering](https://brannstroom.github.io/2021V-DigiFab/)
